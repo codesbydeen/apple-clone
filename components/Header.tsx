@@ -41,6 +41,24 @@ function Header() {
         </div>
 
         </Link>
+
+        {session ? (
+          <Image
+            src={
+              // session.user?.image ||
+              "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y"
+            }
+            alt=""
+            className="cursor-pointer rounded-full"
+            width={34}
+            height={34}
+            // onClick={() => signOut()}
+          />
+        ) : (
+          <UserIcon className="headerIcon" //onClick={() => signIn()}
+           />
+        )}
+
       </div>
     </header>
   )
