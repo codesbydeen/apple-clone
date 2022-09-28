@@ -13,6 +13,11 @@ function Landing() {
                     <span className='block'>By Intellect</span>
                     <span className='block'>Driven By Values</span>
                 </h1>
+
+                <div>
+                    {/* <Button title="Buy Now"/> */}
+                    <a className='Link'>Learn More</a>
+                </div>
             </div>
         </section>
     </div>
