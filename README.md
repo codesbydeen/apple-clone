@@ -12,7 +12,7 @@ clone the repo
 ```
 
 ```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+yarn run dev
 ```
 
 ```bash
