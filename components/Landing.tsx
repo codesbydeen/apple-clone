@@ -1,4 +1,6 @@
+import Image from 'next/image'
 import React from 'react'
+import Button from './Button'
 
 function Landing() {
   return (
@@ -14,10 +16,14 @@ function Landing() {
                     <span className='block'>Driven By Values</span>
                 </h1>
 
-                <div>
-                    {/* <Button title="Buy Now"/> */}
-                    <a className='Link'>Learn More</a>
+                <div className='space-x-8'>
+                    <Button title="Buy Now"/>
+                    <a className='link'>Learn More</a>
                 </div>
+            </div>
+
+            <div className='relative hidden h-[450px] w-[450px] transition-all duartion-500 md:inline lg:h-[650px] lg:w-[600px]'>
+              <Image src="/iphone.png" layout="fill" objectFit="contain"/>
             </div>
         </section>
     </div>
