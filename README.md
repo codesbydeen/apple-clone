@@ -15,3 +15,8 @@ clone the repo
 yarn run dev
 ```
 
+This repo is running it's backend on Sanity
+
+```bash
+sanity start
+```
