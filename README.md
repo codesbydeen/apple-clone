@@ -20,3 +20,6 @@ This repo is running it's backend on Sanity
 ```bash
 sanity start
 ```
+## Hosting
+
+This project will be hosted on Netlify
