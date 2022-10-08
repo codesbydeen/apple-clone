@@ -1,4 +1,4 @@
-# Apple-Clone Using Nextjs
+# Apple-Clone Using Nextjs & TailwindCSS
 
 I am currently working on a website that is an excat repleca of the Apple website.
 
