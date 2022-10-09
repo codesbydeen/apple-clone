@@ -1,6 +1,6 @@
 # Apple-Clone Using Nextjs & TailwindCSS
 
-I am currently working on a website that is an excat repleca of the Apple website.
+I am currently working on a website that is a replica of the Apple website.
 
 
 ## How to install
