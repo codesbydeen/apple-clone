@@ -3,7 +3,7 @@
 I am currently working on a website that is a replica of the Apple website.
 
 
-## How to install
+## Installation
 
 This is a TypeScript Nextjs App
 
